@@ -7,9 +7,9 @@
     {
       "name": "rick-skills",
       "version": "0.1.0",
-      "source": { "source": "github", "repo": "rick-sundayai/rick-skills" },
+      "source": { "source": "github", "repo": "rick-sundayai/rick_skills" },
       "description": "Lifecycle skills (security, observability, performance, shipping, migration, CI/CD, constraints, frontend) plus patched grill-me, tdd, systematic-debugging and writing-plans, with Next.js/Supabase/Vercel/n8n stack notes.",
-      "homepage": "https://github.com/rick-sundayai/rick-skills",
+      "homepage": "https://github.com/rick-sundayai/rick_skills",
       "license": "MIT",
       "keywords": ["skills", "nextjs", "supabase", "vercel", "n8n", "tdd", "security", "shipping"]
     }

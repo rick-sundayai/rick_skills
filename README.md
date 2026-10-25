@@ -15,7 +15,7 @@ Three sources, merged:
 Once per machine:
 
 ```
-/plugin marketplace add rick-sundayai/rick-skills
+/plugin marketplace add rick-sundayai/rick_skills
 ```
 
 Then in any project:
@@ -31,14 +31,14 @@ Update later with `/plugin update rick-skills@rick-skills`. Skills are namespace
 ### Any agent via the skills CLI
 
 ```bash
-npx skills add rick-sundayai/rick-skills                       # all skills
-npx skills add rick-sundayai/rick-skills --skill tdd            # one skill
+npx skills add rick-sundayai/rick_skills                       # all skills
+npx skills add rick-sundayai/rick_skills --skill tdd            # one skill
 ```
 
 ### Plain copy (no tooling)
 
 ```bash
-git clone https://github.com/rick-sundayai/rick-skills ~/rick-skills
+git clone https://github.com/rick-sundayai/rick_skills ~/rick-skills
 ~/rick-skills/scripts/install.sh            # → ./.claude/skills in the current project
 ~/rick-skills/scripts/install.sh .cursor/skills
 ```

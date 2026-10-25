@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "description": "Rick's curated engineering skills for AI coding agents: lifecycle skills from addyosmani/agent-skills, patched Superpowers/Pocock workflow skills, and Next.js + Supabase + Vercel + n8n stack notes.",
   "author": { "name": "Rick" },
-  "homepage": "https://github.com/rick-sundayai/rick-skills",
-  "repository": "https://github.com/rick-sundayai/rick-skills",
+  "homepage": "https://github.com/rick-sundayai/rick_skills",
+  "repository": "https://github.com/rick-sundayai/rick_skills",
   "license": "MIT",
   "skills": "./skills"
 }
