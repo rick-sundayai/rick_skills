@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "rick-skills",
+  "description": "Rick's curated engineering skills for AI coding agents.",
+  "owner": { "name": "Rick", "url": "https://github.com/rick-sundayai" },
+  "plugins": [
+    {
+      "name": "rick-skills",
+      "version": "0.1.0",
+      "source": { "source": "github", "repo": "rick-sundayai/rick-skills" },
+      "description": "Lifecycle skills (security, observability, performance, shipping, migration, CI/CD, constraints, frontend) plus patched grill-me, tdd, systematic-debugging and writing-plans, with Next.js/Supabase/Vercel/n8n stack notes.",
+      "homepage": "https://github.com/rick-sundayai/rick-skills",
+      "license": "MIT",
+      "keywords": ["skills", "nextjs", "supabase", "vercel", "n8n", "tdd", "security", "shipping"]
+    }
+  ]
+}
